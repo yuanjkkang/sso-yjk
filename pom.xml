@@ -11,6 +11,7 @@
 	<groupId>com.yjk.cas</groupId>
 	<artifactId>sso-yjk</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>sso-yjk</name>
 	<description>Demo project for Spring Boot</description>
 	<modules>
